@@ -11,6 +11,9 @@ These phrases will help users get started and access your skill’s core functio
 1.Alexa, Open quote of day
 2.Alexa, Start quote of day
 3.Alexa, Start quote of day and tell me inspiring quote
+1. Numbered
+2. List
+3. Alexa, Start quote of day and tell me inspiring quote
 
 ```markdown
 Syntax highlighted code block
