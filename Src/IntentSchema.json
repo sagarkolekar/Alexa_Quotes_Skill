@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetInspiringQuoteEveryday",
+      "samples": [
+        "today's Quote",
+        "tell me inspiring quote",
+        "inspiring quote",
+        "quote of the day",
+        "give me inspiration",
+        "famous sayings",
+        "inspire me"
+      ],
+      "slots": []
+    }
+  ]
+}
