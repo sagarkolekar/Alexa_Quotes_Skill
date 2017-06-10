@@ -1,12 +1,16 @@
 Skill Name:- Quote of the Day 
 
-You can use the [editor on GitHub](https://github.com/sagarkolekar/Alexa_Quotes_Skill/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Quote App for Alexa(Amazon Echo) that tell new quotes everyday.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Example Phrase
+These phrases will help users get started and access your skill’s core functionality.
+
+1.Alexa, Open quote of day
+2.Alexa, Start quote of day
+3.Alexa, Start quote of day and tell me inspiring quote
 
 ```markdown
 Syntax highlighted code block
