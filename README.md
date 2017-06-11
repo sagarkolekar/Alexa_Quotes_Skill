@@ -1,12 +1,12 @@
-### Skill Name
-Quote of the Day 
+# Quote of the Day
 
-### Description
+
+## Description
 
 A Quote App for Alexa(Amazon Echo) that tell new quotes everyday.
 
 
-### Example Phrase
+## Example Phrase
 These phrases will help users get started and access your skill’s core functionality.
 
 1. Alexa, Open quote of day
