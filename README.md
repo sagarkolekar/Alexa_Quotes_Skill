@@ -1,4 +1,4 @@
-# Quote of the Day
+# Skill Name:- Quote of the Day
 
 ## Description
 A Quote App for Alexa(Amazon Echo) that tell new quotes everyday.
